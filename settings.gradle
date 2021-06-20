@@ -1,0 +1,2 @@
+rootProject.name = "Consulta DNIs"
+include ':app'
