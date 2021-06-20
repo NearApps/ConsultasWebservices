@@ -52,15 +52,10 @@
             android:layout_height="match_parent">
 
             <LinearLayout
+                android:id="@+id/ly_result"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
-
-                <TextView
-                    android:id="@+id/lbl_result"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content" />
-            </LinearLayout>
+                android:orientation="vertical" />
         </ScrollView>
 
     </LinearLayout>
